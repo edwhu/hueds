@@ -1,5 +1,5 @@
-### Hello, thanks for dropping by.
-I'm trying to make robots act more intelligently. Here's a short list of the research themes I'm exploring.
+### Hello!
+I'm trying to make robots more intelligent. Here's a short list of the research themes I'm exploring.
 
 - Robotics
   - Manipulation: Objects are diverse in all sorts of properties: shape, color, deformability, functionality, etc. Is ML the key to handling such variability?
