@@ -1,4 +1,4 @@
 ### Hello, thanks for dropping by.
-Currently, I work on making robots do things in a flexible way through machine learning. The basic idea is that instead of hardcoding rules that break in new situations, we can learn them from data. This isn't a panacea; we still need enough data to learn the rules from and hope that the learned rules satisfy the new situations.
+Currently, I work on making robots behave more intelligently through machine learning. 
 
-Some of my research artifacts are here, along with code nuggets from my side projects and undergrad times. Enjoy!
+Some of my research artifacts are here, along with code nuggets from my side projects and undergrad times. Feel free to contact me for questions, opportunities for collaboration, or just musings on the future of robotic learning. 
