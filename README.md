@@ -1,2 +1,2 @@
 - [5 rings 🧿](https://en.wikipedia.org/wiki/The_Book_of_Five_Rings) 
-- [fractal agents 🌎](https://www.lesswrong.com/posts/i3BTagvt3HbPMx6PN/embedded-agency-full-text-version)
+- [embedded agents 🌎](https://www.lesswrong.com/posts/i3BTagvt3HbPMx6PN/embedded-agency-full-text-version)
